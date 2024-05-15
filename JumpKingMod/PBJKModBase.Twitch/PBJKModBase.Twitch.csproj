@@ -32,14 +32,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="JumpKing">
-      <HintPath>..\..\..\..\..\SteamLibrary\steamapps\common\Jump King\JumpKing.exe</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\SteamLibrary\steamapps\common\Jump King\JumpKing.exe</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="MonoGame.Framework, Version=3.7.1.189, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\SteamLibrary\steamapps\common\Jump King\MonoGame.Framework.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\SteamLibrary\steamapps\common\Jump King\MonoGame.Framework.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="System" />

@@ -35,11 +35,11 @@
       <HintPath>..\Harmony\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="JumpKing">
-      <HintPath>..\..\..\..\..\SteamLibrary\steamapps\common\Jump King\JumpKing.exe</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\SteamLibrary\steamapps\common\Jump King\JumpKing.exe</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="MonoGame.Framework">
-      <HintPath>..\..\..\..\..\SteamLibrary\steamapps\common\Jump King\MonoGame.Framework.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\SteamLibrary\steamapps\common\Jump King\MonoGame.Framework.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
